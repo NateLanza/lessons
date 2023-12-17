@@ -1,0 +1,15 @@
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\bin\Debug\net7.0\howto-csharp.exe
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\bin\Debug\net7.0\howto-csharp.deps.json
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\bin\Debug\net7.0\howto-csharp.runtimeconfig.json
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\bin\Debug\net7.0\howto-csharp.dll
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\bin\Debug\net7.0\howto-csharp.pdb
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.csproj.AssemblyReference.cache
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.AssemblyInfoInputs.cache
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.AssemblyInfo.cs
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.csproj.CoreCompileInputs.cache
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.dll
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\refint\howto-csharp.dll
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.pdb
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\howto-csharp.genruntimeconfig.cache
+D:\SYS\Program Files\VSCode\lessons\howto-csharp\obj\Debug\net7.0\ref\howto-csharp.dll
